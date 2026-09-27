@@ -1,0 +1,15 @@
+<?xml version='1.0' standalone='yes'?>
+<rss xmlns:sparkle='http://www.andymatuschak.org/xml-namespaces/sparkle' version='2.0'>
+    <channel>
+        <title>Notchfull</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Sun, 27 Sep 2026 19:30:38 -0400</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure sparkle:edSignature='VNqWwtVR8AC1qZXTErVQOpS7xPM03ObZyhO+gt1eTfdcjrofZxMhzfisxQRibB1LbruYiUiBQWRW1IMShP/ADw==' length='2622604' type='application/octet-stream' url='https://github.com/luidots/Notchfull-releases/releases/download/v0.1/Notchfull-arm64.dmg?build=27'/>
+        </item>
+    </channel>
+</rss>
